@@ -1,6 +1,6 @@
 # OpenAI Realtime API Websocket Server
 
-This is a websocket server for connecting to the OpenAI Realtime API
+This is an Express websocket server for connecting to the OpenAI Realtime API
 
 Useful if you want to connect to the OpenAI API from a frontend application, but don't want to store your
 API Key on the backend.
